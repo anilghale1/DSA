@@ -3,6 +3,7 @@
 #include<conio.h>
 #include<math.h>
 #include<string.h>
+#include<ctype.h>
 int precedencey(char);
 int main()
 {
